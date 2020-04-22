@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\bin\Release\Sudoku_solver.exe.config
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\bin\Release\Sudoku_solver.exe
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\bin\Release\Sudoku_solver.pdb
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\obj\Release\Sudoku_solver.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\obj\Release\Sudoku_solver.Form1.resources
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\obj\Release\Sudoku_solver.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\obj\Release\Sudoku_solver.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\obj\Release\Sudoku_solver.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\obj\Release\Sudoku_solver.exe
+C:\Users\Дмитрий\Desktop\Программирование\Sudoku_solver\Sudoku_solver\obj\Release\Sudoku_solver.pdb
